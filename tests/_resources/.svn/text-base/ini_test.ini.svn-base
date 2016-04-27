@@ -1,0 +1,6 @@
+[bootstrap]
+test.bootstrap = "value"
+[production : bootstrap]
+test.production = "value"
+[development : bootstrap]
+test.development = "value"

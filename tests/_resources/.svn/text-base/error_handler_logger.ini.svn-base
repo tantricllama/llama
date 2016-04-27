@@ -1,0 +1,7 @@
+logger.appender.email.name = ERROR_HANDLER_LOGGER
+logger.appender.email.to = to@testdomain.com
+logger.appender.email.from = from@testdomain.com
+logger.appender.email.subject = Error
+logger.appender.email.dry = true
+logger.appender.email.autoLog = true
+logger.appender.email.layout = vertical
